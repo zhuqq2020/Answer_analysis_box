@@ -5,8 +5,8 @@
 // @description  2025-11-20更新
 // @author       大聪明
 // @match        *://*.zaixiankaoshi.com/*
-// @downloadURL  https://github.com/zjy9908/-/blob/main/main.js
-// @updateURL    https://github.com/zjy9908/-/blob/main/main.js
+// @downloadURL  https://github.com/zjy9908/Answer_analysis_box/blob/main/main.js
+// @updateURL    https://github.com/zjy9908/Answer_analysis_box/blob/main/main.js
 // @grant       GM_addStyle
 // @grant       GM_notification
 // @license     MIT
