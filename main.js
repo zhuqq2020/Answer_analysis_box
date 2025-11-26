@@ -4,7 +4,7 @@
 // @version      V0.1
 // @description  2025-11-20更新
 // @author       大聪明
-// @match        *://*.zaixiankaoshi.com/*
+// @match        *://*.kaoshibao.com/*
 // @downloadURL  https://github.com/zjy9908/Answer_analysis_box/blob/main/main.js
 // @updateURL    https://github.com/zjy9908/Answer_analysis_box/blob/main/main.js
 // @grant       GM_addStyle
