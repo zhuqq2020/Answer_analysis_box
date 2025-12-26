@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         考试宝AI解析美化增强版
 // @namespace    /
-// @version      V1.3
+// @version      V1.2
 // @description  考试宝AI解析美化+智能快捷键+VIP破解+界面净化
 // @author       zhuqq2020,大聪明
 // @match        *://*.kaoshibao.com/*
