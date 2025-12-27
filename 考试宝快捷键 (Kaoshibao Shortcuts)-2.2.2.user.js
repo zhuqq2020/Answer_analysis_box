@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         考试宝快捷键 (Kaoshibao Shortcuts)
+// @name         考试宝刷题脚本修复版 (Kaoshibao Shortcuts)
 // @namespace    https://github.com/Mading706/kaoshibao-shortcuts
 // @version      2.2.2
 // @author       Mading706
