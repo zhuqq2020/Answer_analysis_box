@@ -708,8 +708,8 @@
         // 核心功能
         html += `<div class="ksb-sec-title">核心功能</div>`;
         html += renderSwitch('smartEnter', '🧠 智能回车 (自动提交→下一题→交卷)');
-        html += renderSwitch('vipUnlock', '🔓 强力VIP破解 (修复遮挡和换行)');
-        html += renderSwitch('cleanUI', '🧹 界面净化 (保留导航栏和次导航栏)');
+        html += renderSwitch('vipUnlock', '🔓 强力VIP破解');
+        html += renderSwitch('cleanUI', '🧹 界面净化');
         html += renderSwitch('autoClose', '🚫 自动关弹窗');
         html += renderSwitch('scriptNav', '🎮 脚本翻页 (方向键)');
 
